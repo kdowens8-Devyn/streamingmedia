@@ -131,6 +131,9 @@ body{
 #playlists p{
     margin-top: 0;
 }
+#playlists h3{
+    color: #FFFFFF;
+}
 
 #your-playlists section{
     background-color: #0d8df8;
@@ -157,6 +160,7 @@ footer{
     padding: 10px;
     font-family: 'Optima', 'sans-serif';
     font-size: .75em;
+    color: #590242;
 }
 dl{
     display: flex;
